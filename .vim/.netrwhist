@@ -1,0 +1,7 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =5
+let g:netrw_dirhist_1='/Users/eugene/Documents/UM/classes/2019WINTER/EECS485/projects/p1/hello'
+let g:netrw_dirhist_2='/Users/eugene/Documents/UM/classes/2019WINTER/EECS485/projects/p1/insta485generator/__pycache__'
+let g:netrw_dirhist_3='/Users/eugene/Documents/UM/classes/2019WINTER/EECS485/projects/485p2/bin'
+let g:netrw_dirhist_4='/Users/eugene/Documents/UM/classes/2019WINTER/EECS201/advance/ad7/.git/hooks'
+let g:netrw_dirhist_5='/Users/eugene/Documents/UM/classes/2019WINTER/EECS485/projects/p3-485/insta485'

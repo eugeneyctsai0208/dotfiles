@@ -3,6 +3,7 @@
 alias ll="ls -lhA"
 alias la="ls -la"
 
+
 # FUNCTIONS #
 #############
 md () {
